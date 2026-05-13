@@ -2,6 +2,6 @@
 
 This is my repository's (RemoteRepository1) README.md file
 
-In feature 1 two files .html and .css are added
+In feature 1 two files .html and .css are added with a button in .html
 
 Adding another paragraph tag in index.html
